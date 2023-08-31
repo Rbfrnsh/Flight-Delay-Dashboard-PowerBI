@@ -1,7 +1,6 @@
 # Flight-Delay-Dashboard-PowerBI
 untuk dataset dari dashboard yang dibuat diambil dari kaggle, berikut linknya :https://www.kaggle.com/datasets/jawadkhattak/us-flight-delay-from-january-2017-july-2022
 untuk processing data, seperti cleaning dan sebagainya digunakan sepenuhnnya menggunakan excel.
-
 berikut contoh dashboard yang dibuat menggunakan PowerBI:
 https://app.powerbi.com/links/vMR1bgdVTX?ctid=69999de5-e28b-42a8-ab18-2d9de5d6c020&pbi_source=linkShare
 
